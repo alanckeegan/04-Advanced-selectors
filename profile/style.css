@@ -29,10 +29,11 @@ h1{
 th h2{
   font-size: 60px;
   font-weight: bold;
+  text-align: right;
 }
 
 .less-bottom-padding{
-  padding: 45px 45px 0px 45px
+  padding: 45px 45px 0px 45px;
 }
 
 .list-inline {
